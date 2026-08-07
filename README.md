@@ -16,3 +16,10 @@ git clone https://github.com/yourusername/agent-ai-tutorials.git
 cd agent-ai-tutorials/chatbot
 pip install -r requirements.txt
 python app.py
+```
+
+## Agent with MCP
+In the `Agentic_AI_tutorial/` folder, The agent connects an LLM to multiple MCP servers, enabling capabilities such as searching arXiv research papers, retrieving paper information, accessing local files, and fetching external resources. MCP provides a standardized interface between the LLM and these tools, making the architecture modular and easy to extend with new services.
+
+<img width="527" height="851" alt="Screenshot 2026-08-07 082442" src="https://github.com/user-attachments/assets/24e035e7-6683-481f-8525-57f5e9a5e77d" />
+
