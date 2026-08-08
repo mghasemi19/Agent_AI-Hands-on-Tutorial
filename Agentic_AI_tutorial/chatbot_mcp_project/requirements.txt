@@ -1,0 +1,7 @@
+openai
+python-dotenv
+mcp
+fastapi
+uvicorn[standard]
+arxiv
+mcp-server-fetch

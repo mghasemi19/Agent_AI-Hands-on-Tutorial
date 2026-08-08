@@ -1,0 +1,30 @@
+{
+  "1811.11942v3": {
+    "title": "Nonlinear supersymmetry as a hidden symmetry",
+    "authors": [
+      "Mikhail S. Plyushchay"
+    ],
+    "summary": "Nonlinear supersymmetry is characterized by supercharges to be higher order in bosonic momenta of a system, and thus has a nature of a hidden symmetry. We review some aspects of nonlinear supersymmetry and related to it exotic supersymmetry and nonlinear superconformal symmetry. Examples of reflectionless, finite-gap and perfectly invisible PT-symmetric zero-gap systems, as well as rational deformations of the quantum harmonic oscillator and conformal mechanics, are considered, in which such symmetries are realized.",
+    "pdf_url": "https://arxiv.org/pdf/1811.11942v3",
+    "published": "2018-11-29"
+  },
+  "quant-ph/9712013v1": {
+    "title": "Quantum-Mechanical Supersymmetry in Traps",
+    "authors": [
+      "Alan Kostelecky",
+      "Neil Russell"
+    ],
+    "summary": "  We discuss the application of quantum-mechanical supersymmetry to particle traps. The supersymmetric-partner wave functions may be used to describe a valence fermion in a trap system with an isotropic harmonic-oscillator potential. Interactions with the core are incorporated analytically. The close similarity of this approach to the application of supersymmetry in atomic systems is made explicit by means of a radial mapping between the two systems.",
+    "pdf_url": "https://arxiv.org/pdf/quant-ph/9712013v1",
+    "published": "1997-12-04"
+  },
+  "1302.6162v2": {
+    "title": "Scalar Supersymmetry in Bi-Spinor Gauge Theory",
+    "authors": [
+      "Alex Jourjine"
+    ],
+    "summary": "We describe a new realization of both global and local supersymmetry acting in spaces of commuting and anticommuting differential forms. Unlike the standard supersymmetry, it has Lorentz scalar transformation parameters. It is related but is not reducible to standard supersymmetry. Reformulation of the Standard Model with the new supersymmetry, called scalar supersymmetry, can be achieved with the particle content of the SM. BRST symmetry is extended to include scalar supersymmetry multiplets. Linear realization of scalar supersymmetry with free fields or with fields interacting with background gravity is described. Gauge interactions require non-linear realizations of scalar supersymmetry and, except for SU(2), non-linear gauge-fixing conditions. Requiring scalar supersymmetry of interacting action with the simplest chiral multiplet can reduce the dynamical content of the theory to that of the SM: one complex scalar, gauge fields, and three generations of Weyl spinors. At low energies scalar supersymmetry is explicitly broken by gauge interactions. However, in the asymptotically free case it becomes exact in the ultraviolet limit. Thus it has the two most desirable features of softly broken standard supersymmetry built in. Implementation of exact scalar supersymmetry in an interacting string action is given.",
+    "pdf_url": "https://arxiv.org/pdf/1302.6162v2",
+    "published": "2013-02-25"
+  }
+}

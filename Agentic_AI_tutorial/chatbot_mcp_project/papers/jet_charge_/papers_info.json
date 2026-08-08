@@ -1,0 +1,81 @@
+{
+  "2101.04304v2": {
+    "title": "Dynamic Jet Charge",
+    "authors": [
+      "Zhong-Bo Kang",
+      "Xiaohui Liu",
+      "Sonny Mantry",
+      "M. C. Spraker",
+      "Tyler Wilson"
+    ],
+    "summary": "We propose a modified definition of the jet charge, the \"dynamic jet charge\", where the constant jet momentum fraction weighting parameter, $\u03ba$, in the standard jet charge definition is generalized to be a function of a dynamical property of the jet or the individual jet constituents. The dynamic jet charge can complement analyses based on the standard definition and give improved discrimination between quark and gluon initiated jets and between jets initiated by different quark flavors. We focus on the specific scenario where each hadron in the jet contributes to the dynamic jet charge with a $\u03ba$-value dynamically determined by its jet momentum fraction. The corresponding dynamic jet charge distributions have qualitatively distinct features and are typically characterized by a multiple peak structure. For proton-proton collisions, compared to the standard jet charge, the dynamic jet charge gives significantly improved discrimination between quark and gluon initiated jets and comparable discrimination between $u$- and $d$-quark initiated jets. In Pythia simulations of heavy ion collisions, the dynamic jet charge is found to have higher jet discrimination power compared to the standard jet charge, remaining robust against the increased contamination from underlying event. We also present phenomenological applications of the dynamic jet charge to probe nuclear flavor structure.",
+    "pdf_url": "https://arxiv.org/pdf/2101.04304v2",
+    "published": "2021-01-12"
+  },
+  "2502.12182v1": {
+    "title": "Towards Transparent and Accurate Plasma State Monitoring at JET",
+    "authors": [
+      "Andrin B\u00fcrli",
+      "Alessandro Pau",
+      "Thomas Koller",
+      "Olivier Sauter",
+      "JET Contributors"
+    ],
+    "summary": "Controlling and monitoring plasma within a tokamak device is complex and challenging. Plasma off-normal events, such as disruptions, are hindering steady-state operation. For large devices, they can even endanger the machine's integrity and it represents in general one of the most serious concerns for the exploitation of the tokamak concept for future power plants. Effective plasma state monitoring carries the potential to enable an understanding of such phenomena and their evolution which is crucial for the successful operation of tokamaks. This paper presents the application of a transparent and data-driven methodology to monitor the plasma state in a tokamak. Compared to previous studies in the field, supervised and unsupervised learning techniques are combined. The dataset consisted of 520 expert-validated discharges from JET. The goal was to provide an interpretable plasma state representation for the JET operational space by leveraging multi-task learning for the first time in the context of plasma state monitoring. When evaluated as disruption predictors, a sequence-based approach showed significant improvements compared to the state-based models. The best resulting network achieved a promising cross-validated success rate when combined with a physical indicator and accounting for nearby instabilities. Qualitative evaluations of the learned latent space uncovered operational and disruptive regions as well as patterns related to learned dynamics and global feature importance. The applied methodology provides novel possibilities for the definition of triggers to switch between different control scenarios, data analysis, and learning as well as exploring latent dynamics for plasma state monitoring. It also showed promising quantitative and qualitative results with warning times suitable for avoidance purposes and distributions that are consistent with known physical mechanisms.",
+    "pdf_url": "https://arxiv.org/pdf/2502.12182v1",
+    "published": "2025-02-14"
+  },
+  "1510.01189v1": {
+    "title": "Bayesian modelling of the emission spectrum of the JET Li-BES system",
+    "authors": [
+      "Sehyun Kwak",
+      "J. Svensson",
+      "M. Brix",
+      "Y. -c. Ghim",
+      "JET Contributors"
+    ],
+    "summary": "A Bayesian model of the emission spectrum of the JET lithium beam has been developed to infer the intensity of the Li I (2p-2s) line radiation and associated uncertainties. The detected spectrum for each channel of the lithium beam emission spectroscopy (Li-BES) system is here modelled by a single Li line modified by an instrumental function, Bremsstrahlung background, instrumental offset, and interference filter curve. Both the instrumental function and the interference filter curve are modelled with non-parametric Gaussian processes. All free parameters of the model, the intensities of the Li line, Bremsstrahlung background, and instrumental offset, are inferred using Bayesian probability theory with a Gaussian likelihood for photon statistics and electronic background noise. The prior distributions of the free parameters are chosen as Gaussians. Given these assumptions, the intensity of the Li line and corresponding uncertainties are analytically available using a Bayesian linear inversion technique. The proposed approach makes it possible to extract the intensity of Li line without doing a separate background subtraction through modulation of the Li beam.",
+    "pdf_url": "https://arxiv.org/pdf/1510.01189v1",
+    "published": "2015-10-05"
+  },
+  "2209.06151v2": {
+    "title": "High-order coupling of shear and sonic continua in JET plasmas",
+    "authors": [
+      "Paulo Rodrigues",
+      "Duarte Borba",
+      "Francesca Cella",
+      "Rui Coelho",
+      "Jorge Ferreira",
+      "Ant\u00f3nio Figueiredo",
+      "Mervi Mantsinen",
+      "Fernando Nabais",
+      "Sergei Sharapov",
+      "Paula Sir\u00e9n",
+      "JET Contributors"
+    ],
+    "summary": "A recent model coupling the shear-Alfv\u00e9n and acoustic continua, which depends strongly on the equilibrium shaping and on elongation in particular, is employed to explain the properties of Alfv\u00e9nic activity observed on JET plasmas below but close to the typical frequency of toroidicity-induced Alfv\u00e9n eigenmodes (TAEs). The frequency gaps predicted by the model result from high-order harmonics of the geodesic field-line curvature caused by plasma shaping (as opposed to lower-order toroidicity) and give rise to high-order geodesic acoustic eigenmodes (HOGAEs), their frequency value being close to one-half of the TAEs one. The theoretical predictions of HOGAE frequency and radial location are found to be in fair agreement with measurements in JET experiments, including magnetic, reflectometry and soft x-ray data. The stability of the observed HOGAEs is evaluated with the linear hybrid MHD/drift-kinetic code CASTOR-K, taking into account the energetic-ion populations produced by the NBI and ICRH heating systems. Wave-particle resonances, along with drive/damping mechanisms, are also discussed in order to understand the conditions leading to HOGAEs destabilization in JET plasmas.",
+    "pdf_url": "https://arxiv.org/pdf/2209.06151v2",
+    "published": "2022-09-13"
+  },
+  "1510.03228v1": {
+    "title": "The role of MHD in causing impurity peaking in JET Hybrid plasmas",
+    "authors": [
+      "T. C. Hender",
+      "P. Buratti",
+      "F. J. Casson",
+      "B. Alper",
+      "Yu. Baranov",
+      "M. Baruzzo",
+      "C. D. Challis",
+      "F. Koechl",
+      "C. Marchetto",
+      "M. F. F. Nave",
+      "T. P\u00fctterich",
+      "S. Reyes Cortes",
+      "JET Contributors"
+    ],
+    "summary": "In Hybrid plasma operation in JET with its ITER-like wall (JET-ILW) it is found that n>1 tearing activity can significantly enhance the rate of on-axis peaking of tungsten impurities, which in turn significantly degrades discharge performance. Core n=1 instabilities can be beneficial in removing tungsten impurities from the plasma core (e.g. sawteeth or fishbones), but can conversely also degrade core confinement (particularly in combination with simultaneous n=3 activity). The nature of MHD instabilities in JET Hybrid discharges, with both its previous Carbon wall and subsequent JET-ILW, is surveyed statistically and the character of the instabilities is examined. Possible qualitative models for how the n>1 islands can enhance on-axis tungsten transport accumulation processes are presented.",
+    "pdf_url": "https://arxiv.org/pdf/1510.03228v1",
+    "published": "2015-10-12"
+  }
+}
