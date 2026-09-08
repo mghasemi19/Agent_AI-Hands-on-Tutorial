@@ -23,3 +23,10 @@ In the `Agentic_AI_tutorial/` folder, The agent connects an LLM to multiple MCP 
 
 <img width="527" height="851" alt="Screenshot 2026-08-07 082442" src="https://github.com/user-attachments/assets/24e035e7-6683-481f-8525-57f5e9a5e77d" />
 
+
+## Online RAG Agent
+In the `online_RAG_Agent` folder, The RAG agent retrieves relevant information from news articles using FAISS vector search and generates grounded answers with an LLM based on the retrieved context. It supports URL-based document ingestion, recursive text chunking, embeddings, semantic retrieval, and source-aware question answering.
+
+<img width="2592" height="1064" alt="Screenshot 2026-09-08 154209" src="https://github.com/user-attachments/assets/13d0dc1b-cc99-4b18-9bfa-c8863a66d4b3" />
+
+
