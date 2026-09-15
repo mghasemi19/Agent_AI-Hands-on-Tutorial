@@ -7,8 +7,6 @@
 [![Website](https://img.shields.io/badge/Website-blue)](https://amanmdesai.github.io/RooAgent/)
 
 
-**Author:** Aman Desai
-
 Talk to ROOT in plain English. RooAgent lets you run HEP analyses — histograms, event selection, fitting, significance scans — by typing what you want rather than writing code.
 
 Under the hood, an LLM reads your prompt, picks the right analysis tool, fills in the arguments, and calls PyROOT. You get the result; ROOT does the work.
