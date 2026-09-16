@@ -30,3 +30,7 @@ In the `online_RAG_Agent` folder, The RAG agent retrieves relevant information f
 <img width="2592" height="1064" alt="Screenshot 2026-09-08 154209" src="https://github.com/user-attachments/assets/13d0dc1b-cc99-4b18-9bfa-c8863a66d4b3" />
 
 
+## HEP Agent
+In the upcoming project, the pipeline transforms a base Qwen 3.8B model into a domain-adapted LLM using arXiv papers and Papers with Code datasets. It supports document parsing, cleaning and normalization, dataset building, 4-bit quantized LoRA fine-tuning, and deployment of a source-aware, efficient model for academic and code-related tasks
+<img width="594" height="289" alt="Qwen" src="https://github.com/user-attachments/assets/14ec71bf-2adc-4cda-a43f-e5b044077b4b" />
+
