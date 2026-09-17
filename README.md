@@ -2,7 +2,7 @@
 
 This repository includes tutorials on Agent AI frameworks. 
 
-## Chatbot Folder
+## HEP Chatbot
 In the `chatbot/` folder, an LLM is fine-tuned with particle physics papers (CERN publications, arXiv preprints, and high-energy physics research). The model is hosted on a UI that allows clients to chat, ask questions about physics concepts, and query research findings.
 
 **Tech Stack:** Fine-tuned LLaMA/Mistral model, RAG with vector database, FastAPI backend, Streamlit/React frontend.
@@ -32,5 +32,5 @@ In the `online_RAG_Agent` folder, The RAG agent retrieves relevant information f
 
 ## HEP Agent
 In the upcoming project, the pipeline transforms a base Qwen 3.8B model into a domain-adapted LLM using arXiv papers and Papers with Code datasets. It supports document parsing, cleaning and normalization, dataset building, 4-bit quantized LoRA fine-tuning, and deployment of a source-aware, efficient model for academic and code-related tasks
-<img width="594" height="289" alt="Qwen" src="https://github.com/user-attachments/assets/14ec71bf-2adc-4cda-a43f-e5b044077b4b" />
+<img width="1400" height="800" alt="ChatGPT Image Sep 17, 2026, 06_31_01 AM" src="https://github.com/user-attachments/assets/36bdc2f0-0810-4bb2-a2f6-aea457d05456" />
 
