@@ -1,6 +1,9 @@
 # HEPAgent
 
 <img width="1400" height="800" alt="ChatGPT Image Sep 17, 2026, 06_31_01 AM" src="https://github.com/user-attachments/assets/36bdc2f0-0810-4bb2-a2f6-aea457d05456" />
+<p align="center">
+  <img width="431" height="321" alt="Picture1" src="https://github.com/user-attachments/assets/e45f658a-76bd-4016-90e4-7405cea05e7d" />
+</p>
 <img width="1448" height="1086" alt="ChatGPT Image Sep 19, 2026, 11_18_52 AM" src="https://github.com/user-attachments/assets/c55e2ca7-e052-4356-b61e-c47e52345409" />
 
 
