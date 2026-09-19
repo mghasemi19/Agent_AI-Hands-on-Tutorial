@@ -1,4 +1,7 @@
-# RooAgent
+# HEPAgent
+
+<img width="1400" height="800" alt="ChatGPT Image Sep 17, 2026, 06_31_01 AM" src="https://github.com/user-attachments/assets/36bdc2f0-0810-4bb2-a2f6-aea457d05456" />
+<img width="1448" height="1086" alt="ChatGPT Image Sep 19, 2026, 11_18_52 AM" src="https://github.com/user-attachments/assets/c55e2ca7-e052-4356-b61e-c47e52345409" />
 
 
 Talk to ROOT in plain English. RooAgent lets you run HEP analyses — histograms, event selection, fitting, significance scans — by typing what you want rather than writing code.
